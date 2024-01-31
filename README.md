@@ -4,5 +4,5 @@ Welcome to my GitHub repository focused on Robotic Deep Reinforcement Learning. 
 
 
 
-![snake gif](https://github.com/eather0056/eather0056/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/eather0056/eather0056/blob/output/github-contribution-grid-snake.svg)
 
