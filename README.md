@@ -2,5 +2,3 @@ Welcome to my GitHub repository focused on Robotic Deep Reinforcement Learning. 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=eather0056.eather0056)
 
-
-![snake gif](https://github.com/eather0056/eather0056/blob/output/dist/github-contribution-grid-snake.svg)
