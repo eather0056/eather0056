@@ -19,7 +19,28 @@ I'm a passionate researcher and developer focusing on the intersection of roboti
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+<!-- Add more badges from https://shields.io -->
+![](https://img.shields.io/badge/PLC-Expert-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HMI-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VFD-Skilled-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SCADA-Experienced-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Servo_System-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Fusion_360_(3D_Design)-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MATLAB_SIMULINK-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Robotic_Operating_System-Experienced-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Gazebo-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ThingSpeak-Skilled-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IBM_Cloud-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-Red-Experienced-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MIT_App_Inventor-Skilled-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C++-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Skilled-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ladder-Experienced-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Statement_List_(STL)-Skilled-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ESP-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Arduino-Skilled-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Raspberry_PI-Proficient-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Siemens_S7-1200-Experienced-informational?style=flat&logoColor=white&color=2bbc8a)
 <!-- Add more badges from https://shields.io -->
 
 ## 📘 My Projects
@@ -39,16 +60,19 @@ I'm a passionate researcher and developer focusing on the intersection of roboti
 <!-- Animated progress bars or static images representing your journey -->
 <img src="[URL_TO_YOUR_LEARNING_PROGRESS_GIF]" width="100%" height="auto" />
 
+
 ## 📫 How to reach me
-- 📧 Email me at [mdeather0056@gmail.com](mailto:mdeather0056@gmail.com)
+<!-- 📧 Email me at [mdeather0056@gmail.com](mailto:mdeather0056@gmail.com)-->
 - 🔗 Connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
 
 <!-- Optional sections -->
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eather0056&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eather0056&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+
 
 ## 🐍 Watch my contribution graph get eaten by the snake!
 ![snake gif](https://github.com/eather0056/eather0056/blob/output/dic/github-contribution-grid-snake.svg)
