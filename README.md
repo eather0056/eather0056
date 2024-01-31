@@ -19,3 +19,6 @@ Here's a brief description of my project.
 ![Progress](https://progress-bar.dev/progress?title=progress&width=50&color=babaca&suffix=%)
 
 ... rest of your content ...
+
+
+![snake gif](https://github.com/your-username/eather0056/blob/output/github-contribution-grid-snake.svg)
