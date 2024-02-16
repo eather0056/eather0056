@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  I specialize in Robotic Deep Reinforcement Learning. Let's explore the future of robotics and AI together!
+  I specialize in Robotic & Deep Reinforcement Learning. Let's explore the future of robotics and AI together!
 </p>
 
 <div style="text-align:center;">
