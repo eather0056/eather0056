@@ -11,10 +11,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" alt="Centered Image">
 </p>
-<p align="center">
-  <!-- Visitor count -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eather0056.eather0056" alt="visitor badge"/>
-</p>
 
 ## 🚀 About Me
 I'm a passionate researcher and developer focusing on the intersection of robotics and artificial intelligence. With a deep interest in reinforcement learning, I aim to contribute to innovative solutions that can advance the field of robotics.
