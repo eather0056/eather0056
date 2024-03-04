@@ -71,8 +71,6 @@ I'm a passionate researcher and developer focusing on the intersection of roboti
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eather0056&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
-![snake gif](https://github.com/eather0056/eather0056/blob/output/dist/github-contribution-grid-snake.svg)
-
 <!-- Footer -->
 <p align="center">
   <i>Let's connect and chat! Open to collaboration on projects related to AI and robotics.</i>
