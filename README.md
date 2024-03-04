@@ -8,11 +8,9 @@
 <p align="center">
   I specialize in Robotic & Deep Reinforcement Learning. Let's explore the future of robotics and AI together!
 </p>
-
-<div style="text-align:center;">
+<p align="center">
   <img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" alt="Centered Image">
-</div>
-
+</p>
 <p align="center">
   <!-- Visitor count -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eather0056.eather0056" alt="visitor badge"/>
